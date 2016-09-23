@@ -1,3 +1,6 @@
+//Source Map support is very easy - just add -d to the terminal webpack-dev-server -d
+//minified is also very easy      - just add -p to the terminak wepback-dev-server -p
+
 var path = require("path");
 
 
