@@ -1,1 +1,0 @@
-!function(o){function e(r){if(t[r])return t[r].exports;var n=t[r]={exports:{},id:r,loaded:!1};return o[r].call(n.exports,n,n.exports,e),n.loaded=!0,n.exports}var t={};return e.m=o,e.c=t,e.p="",e(0)}([function(o,e,t){o.exports=t(1)},function(o,e){document.write("welcome to app.js 7777"),console.log("app loaded")}]);
